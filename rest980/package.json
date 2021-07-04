@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/koalazak/rest980.git"
+    "url": "git+https://github.com/alexmerm/rest980.git"
   },
   "dependencies": {
     "body-parser": "^1.16.0",
     "config": "^2.0.1",
     "cookie-parser": "^1.4.3",
     "debug": "^3.1.0",
-    "dorita980": "^3.0.13",
+    "dorita980": "git+https://github.com/alexmerm/dorita980.git#32f7028",
     "ejs": "^2.5.2",
     "express": "^4.14.0",
     "jsonfile": "^4.0.0",
