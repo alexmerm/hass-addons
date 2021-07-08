@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/koalazak/rest980.git"
+    "url": "git+https://github.com/alexmerm/rest980.git"
   },
   "dependencies": {
     "body-parser": "^1.16.0",
